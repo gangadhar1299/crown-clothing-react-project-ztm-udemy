@@ -30,14 +30,14 @@ class Directory extends React.Component {
                     title: 'mens',
                     imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
                     size: 'large',
-                    id: 5,
+                    id: 4,
                     linkUrl: 'shop/mens'
                 },
                 {
                     title: 'womens',
                     imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
                     size: 'large',
-                    id: 4,
+                    id: 5,
                     linkUrl: 'shop/womens'
                 }
             ]
